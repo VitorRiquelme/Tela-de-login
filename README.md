@@ -1,5 +1,5 @@
 # Tela de login
-## Um projeto de tela de login utilazando html e css
+## Um projeto simples de tela de login utilizando html e css
  
  
 
